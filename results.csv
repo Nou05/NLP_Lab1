@@ -1,4 +1,4 @@
-Metric,Vocabulary size,Average tokens/document,Matrix sparsity,OOV rate
-Pipeline A (Minimal),193540,166.19,99.9141%,0.00%
-Pipeline B (Normalized),193521,125.05,99.9354%,0.00%
-Pipeline C (Extended),3976923,295.01,99.9926%,0.00%
+               Pipeline  Vocabulary size Average tokens/document Matrix sparsity
+   Pipeline A (Minimal)           193540                  166.19        99.9141%
+Pipeline B (Normalized)           193521                  125.05        99.9354%
+  Pipeline C (Extended)          3976923                  295.01        99.9926%
