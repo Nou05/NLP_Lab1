@@ -1,5 +1,3 @@
-# Part I & J: Reflection & Error Analysis (Handwritten)
+# Part I & J: Reflection & Error Analysis
 
-📂 **Bài làm viết tay phân tích lỗi và nhận xét (Scan PDF):** 
-
-👉 [Click vào đây để xem file bài làm scan PDF: reflection_handwritten.pdf](./reflection.pdf)
+📂 **Bài làm viết tay (PDF scan):** [Xem file reflection.pdf tại đây](./reflection.pdf)
